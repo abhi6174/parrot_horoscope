@@ -7,14 +7,51 @@
     transition: transform 1s ease;
 }
 #disp{
-    width: 22em;
-    height: 20em;
+    position: absolute;
+    top: 30%;
+    left: 11%;
+    width: 19em;
+    height: 11em;
     border-radius: 12px;
-    border :2px solid black; 
+    font-style: italic;
+    font-family: fantasy;
+}
+#check_btn{
+    
+    border-radius: 8px; 
+    cursor: pointer; 
+    transition: background-color 0.3s ease;
+    border:1px solid #a34bc9;
+    background-color:#672d80;
+    color:#fff;
+}   
+#check_btn:hover{
+    background-color:#9046b0;
+}
+
+#exit_btn{
+    display: none;
+    justify-content: center;
+    align-items: center;
+    height: 4em;
+    width: 7em;
+    position: absolute;
+    bottom: 12%;
+    right: 45%;
+    border-radius: 8px; 
+    cursor: pointer; 
+    transition: background-color 0.3s ease;
+    border:1px solid #4346e0;
+    background-color:#2b2c61;
+    color:#fff;
+    font-size: 12px;
+}   
+#exit_btn:hover{
+    background-color:#4346e0;
 }
 #content {
     position: absolute;
-    width: 25em;
+    width: 23em;
     height: 31em;
     border :2px solid black;
     background-color: #fff;
@@ -24,7 +61,10 @@
     align-items: center;
     border-radius: 10px;
 }
-
+#astro_img{
+    height: 31em;
+    width: 23em;
+}
 .container {
     display: flex;
     flex-direction: column;

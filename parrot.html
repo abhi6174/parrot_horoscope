@@ -4,17 +4,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>parrot_horoscope</title>
     <link rel="stylesheet" href="parrot.css">
 </head>
 
 <body>
-    <button onclick="rotateCards()">Rotate Cards</button>
+    
     <div class="container">
+        <button id="check_btn" onclick="rotateCards()">
+            <h1>Check your future</h1>
+        </button>
         <div id="parrot">
             <img id="parrot_img" src="parrot_image.avif" alt="parrot">
         </div>
-        
+
         <div id="cardContainer">
             <img class="card" id="card1" src="card_image.avif" alt="card">
             <img class="card" id="card2" src="card_image.avif" alt="card">
@@ -23,13 +26,19 @@
             <img class="card" id="card5" src="card_image.avif" alt="card">
         </div>
         <div id="content">
+            <img id="astro_img" src="card_image.avif" alt="astrology">
             <div id="disp">
-                
+
             </div>
-            
+
         </div>
+
+        <button id="exit_btn" onclick="exit()">
+            <h1>Exit</h1>
+        </button>
     </div>
-    
+
 </body>
-<script src="parrot.js"></script>
+<script src="parrot_script.js"></script>
+
 </html>

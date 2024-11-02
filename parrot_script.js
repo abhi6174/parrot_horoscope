@@ -18,7 +18,10 @@ function rotateCards() {
     setTimeout(()=>{
         parrotImage.style.transform= `rotate(${30}deg)`;
     },duration);
-    setTimeout(getRandomAstrologyOutput,2200);
+    setTimeout(()=>{
+        parrotImage.style.transform= `rotate(${-1}deg)`;
+    },2500);
+    setTimeout(getRandomAstrologyOutput,2600);
 }   
    
    const astrologyOutputs = [
@@ -31,6 +34,14 @@ function rotateCards() {
 
 function getRandomAstrologyOutput() {
     const randomIndex = Math.floor(Math.random() * astrologyOutputs.length);
-    console.log(astrologyOutputs[randomIndex]);
+    document.getElementById("disp").innerHTML=`
+    <h2>${astrologyOutputs[randomIndex]}</h2>`;
+    document.getElementById("content").style.display="flex";
+    document.getElementById("exit_btn").style.display="flex";
+    document.getElementById("check_btn").style.display="none";   
+}
+
+function exit(){
+    window.location.href ="index.html";
 }
 
