@@ -1,0 +1,80 @@
+#parrot_img {
+    padding-top: 9%;
+    margin-bottom: 19%;
+    margin-left: -51%;
+    height: 117px;
+    width: 119px;
+    transition: transform 1s ease;
+}
+#disp{
+    width: 22em;
+    height: 20em;
+    border-radius: 12px;
+    border :2px solid black; 
+}
+#content {
+    position: absolute;
+    width: 25em;
+    height: 31em;
+    border :2px solid black;
+    background-color: #fff;
+    color: white;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+#cardContainer {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    position: absolute;
+    width: 80px;
+    height: 120px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5em;
+    color: #333;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+#card1 {
+    transform: rotate(0deg) translate(0, -120px);
+}
+
+#card2 {
+    transform: rotate(72deg) translate(0, -120px);
+}
+
+#card3 {
+    transform: rotate(144deg) translate(0, -120px);
+}
+
+#card4 {
+    transform: rotate(216deg) translate(0, -120px);
+}
+
+#card5 {
+    transform: rotate(288deg) translate(0, -120px);
+}
