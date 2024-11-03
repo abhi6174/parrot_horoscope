@@ -6,6 +6,7 @@
     width: 119px;
     transition: transform 1s ease;
 }
+
 #disp{
     position: absolute;
     top: 30%;

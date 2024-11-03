@@ -5,7 +5,7 @@ body{
     flex-direction: column;
     
 }
-#name{
+.name{
     width:13em;
     height:2em;
     border-radius: 5px;
@@ -31,7 +31,7 @@ body{
     color: white;
 }
 .outer{
-    margin: 5% 0% 3% 0%;
+    margin: 5% 0% 2% 0%;
     background-color: #4346e0;
     border-radius: 12px;
     color:white;
