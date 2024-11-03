@@ -17,10 +17,11 @@ that represent your future.
 
 ### The Problem (that doesn't exist)
 Many people uses the traditional parrot based astrology.
-But it is not available everywhere.
+But it is not available everywhere.Accessing the traditional Astrolegers is difficult .
 
 
 ### The Solution (that nobody asked for)
+A digital parrot that pick cards that determine your future.
 For those people who uses the traditional parrot based astrology this website can be useful.
 ## Technical Details
 ### Technologies/Components Used
@@ -47,7 +48,7 @@ It shows the interface to enter name and date of birth
 It shows the parrot that's gonna pick the card.The card will rotate
 and the parrot picks the card
 
-<img src="Screenshot3.png">
+<img src="screenshot3.png">
 It is the output card that represent your future
 
 
