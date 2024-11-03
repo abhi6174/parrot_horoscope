@@ -22,15 +22,23 @@ function rotateCards() {
     setTimeout(() => {
         parrotImage.style.transform = `rotate(${-1}deg)`;
     }, 2500);
-    setTimeout(getRandomAstrologyOutput, 2600);
+    setTimeout(getRandomAstrologyOutput, 2700);
 }
 
 const astrologyOutputs = [
-    " Today, you’ll feel an urge to clean your room, but don’t worry—it will pass quickly.",
-    " Remember, the best things in life are free... but so are the worst things. Choose wisely!",
-    "Today you’ll discover a hidden talent for procrastination. Embrace it; deadlines are just suggestions anyway.",
-    " The stars say you’re destined for greatness... as soon as you finish that nap.",
-    " You will cross paths with someone who finds you irresistible—likely because you’re carrying snacks."
+    "You have a chance to win a lottery ticket.A 1/1000 chance !",
+"In a future not so bright, you’ll may attempt some nonsense things!",
+
+"In the coming days you will realize that watching reels is a waste of time. You really should’ve seen this coming.",
+
+"A great fortune is coming! Not for you of course",
+
+"An important mission is waiting for you in the future.prepare for it",
+
+"Beware of distractions in the coming days; they may lead you astray from your true path. Stay focused!",
+
+"You’ll encounter a mysterious stranger who may hold the answers to questions you didn’t even know you had."
+
   
 ];
 

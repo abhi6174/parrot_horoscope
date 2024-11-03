@@ -8,11 +8,12 @@ Parrot Horoscope
 single participant
 
 ### Team Members
-- Team Lead: [Abhishek S] - [Nss college of Engineering palakkad]
+- Team Lead: Abhishek S - Nss college of Engineering palakkad
 
 
 ### Project Description
-It basically does check in to your future and give output.
+It basically does check in to your future and give the card
+that represent your future.
 
 ### The Problem (that doesn't exist)
 Many people uses the traditional parrot based astrology.
@@ -20,16 +21,13 @@ But it is not available everywhere.
 
 
 ### The Solution (that nobody asked for)
-For those people who uses the traditional parrot based astrology this website can be accessible.
+For those people who uses the traditional parrot based astrology this website can be useful.
 ## Technical Details
 ### Technologies/Components Used
 For Software:
 - HTML,CSS ,JAVASCRIPT
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+
 
 ### Implementation
 For Software:
@@ -37,51 +35,26 @@ For Software:
 [commands]
 
 # Run
-[commands]
+Just open the index.html on a browser
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1]
-*Add caption explaining what this shows*
+<img src="screenshot1.png">
+It shows the interface to enter name and date of birth
+<img src="screenshot2.png">
+It shows the parrot that's gonna pick the card.The card will rotate
+and the parrot picks the card
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img src="Screenshot3.png">
+It is the output card that represent your future
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://youtu.be/YLH5-xYPoHU?si=nZkdfXDdenq28VxU
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - ABHISHEK S: Made the Entire project
