@@ -1,33 +1,30 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
 # [Project Name] 🎯
-
+Parrot Horoscope
 
 ## Basic Details
-### Team Name: [Name]
-
+### Team Name: []
+single participant
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Abhishek S] - [Nss college of Engineering palakkad]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+It basically does check in to your future and give output.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Many people uses the traditional parrot based astrology.
+But it is not available everywhere.
+
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
+For those people who uses the traditional parrot based astrology this website can be accessible.
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML,CSS ,JAVASCRIPT
 
 For Hardware:
 - [List main components]
@@ -46,7 +43,7 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1]
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
@@ -87,9 +84,7 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- ABHISHEK S: Made the Entire project
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
