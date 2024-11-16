@@ -55,7 +55,8 @@ It is the output card that represent your future
 ### Project Demo
 # Video
 https://youtu.be/YLH5-xYPoHU?si=nZkdfXDdenq28VxU
-
+#Hosted-link
+https://parrot-horoscope.netlify.app/
 
 ## Team Contributions
 - ABHISHEK S: Made the Entire project
